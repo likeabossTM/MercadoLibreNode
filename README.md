@@ -2,7 +2,7 @@
 first of all, thank to  santi8ago8 . for doing most of this great code
 ======================================================
 
-visit his profile here
+visit his profile here https://github.com/santi8ago8
 
 
 
@@ -181,6 +181,7 @@ Example:
 ```
 meliObject.get('/users/', {ids: [77169310, 1231233]}, function(a,b) { })
 ```
+
 The request is get ​​to the following address:
 ```
 https://api.mercadolibre.com/users/?ids=77169310,1231233
